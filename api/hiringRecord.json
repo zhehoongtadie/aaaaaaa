@@ -6,36 +6,36 @@
   "data": [
     {
       "id": 1,
-      "cname": "北京柯蓝科技有限公司",
-      "leader": "刘海海",
+      "cname": "优酷土豆公司",
+      "leader": "王总",
       "teacher": "张三",
       "activityDate":"2019-05-26" ,
-      "address": "科技楼11层1"
+      "address": "综合楼11层1"
 
     },
     {
       "id": 2,
-      "cname": "北京思特奇股份有限公司",
-      "leader": "刘海",
+      "cname": "中国石油化工集团有限公司",
+      "leader": "王总",
       "teacher": "李四",
       "activityDate":"2019-05-26" ,
-      "address": "科技楼10层1"
+      "address": "综合楼10层1"
 
     },
     {
       "id": 3,
-      "cname": "大连华宇科技有限公司",
-      "leader": "刘四",
+      "cname": "国家电网有限公司",
+      "leader": "王总",
       "teacher": "王五",
       "activityDate":"2019-05-26" ,
-      "address": "科技楼11层1"
+      "address": "教学楼11层1"
 
 
     },
     {
       "id": 4,
       "cname": "成都银海软件科技有限公司",
-      "leader": "刘小花",
+      "leader": "王总",
       "teacher": "张三",
       "activityDate":"2019-05-26" ,
       "address": "科技楼11层1"
@@ -43,8 +43,8 @@
     },
     {
       "id": 5,
-      "cname": "山东国子科技有限公司",
-      "leader": "李四",
+      "cname": "完美世界（北京）网络技术有限公司",
+      "leader": "王总",
       "teacher": "张三",
       "activityDate":"2019-05-26" ,
       "address": "科技楼11层1"
@@ -53,8 +53,8 @@
     },
     {
       "id": 6,
-      "cname": "山东国子科技有限公司",
-      "leader": "李广",
+      "cname": "小米科技有限责任公司",
+      "leader": "王总",
       "teacher": "张三",
       "activityDate":"2019-05-26" ,
       "address": "科技楼11层1"

@@ -4,18 +4,18 @@
   "count": 1000,
   "data": [
     {
-      "username": "张三",
+      "username": "马王",
       "college": "计算机学院",
-      "major": "软件工程",
+      "major": "计算机科学与技术",
       "class": "2班",
       "grade": 2017,
-      "tel": 18832322223,
-      "qq": 82830700,
+      "tel": 18834175469,
+      "qq": 1268746,
       "job": "班长",
       "state": "启用"
     },
     {
-      "username": "王五",
+      "username": "魁王",
       "college": "计算机学院",
       "major": "计算机科学与技术",
       "class": "2班",
@@ -25,54 +25,54 @@
       "job": "生活委员",
       "state": "启用"
     },{
-      "username": "张三",
+      "username": "刘志军",
       "college": "计算机学院",
-      "major": "软件工程",
+      "major": "计算机科学与技术",
       "class": "2班",
       "grade": 2017,
       "tel": 18832322223,
       "qq": 82830700,
-      "job": "班长",
+      "job": "学生",
       "state": "启用"
     }, {
-      "username": "王五",
+      "username": "马总",
       "college": "艺术学院",
       "major": "古典音乐",
       "class": "2班",
       "grade": 2017,
       "tel": 18832324443,
       "qq": 82830700,
-      "job": "生活委员",
+      "job": "学生",
       "state": "启用"
     },{
-      "username": "张三",
+      "username": "666",
       "college": "计算机学院",
-      "major": "软件工程",
+      "major": "计算机科学与技术",
       "class": "2班",
       "grade": 2017,
       "tel": 18832322223,
       "qq": 82830700,
-      "job": "班长",
+      "job": "学生",
       "state": "启用"
     },{
-      "username": "张三",
+      "username": "吴总",
       "college": "计算机学院",
-      "major": "软件工程",
+      "major": "计算机科学与技术",
       "class": "2班",
       "grade": 2017,
       "tel": 18832322223,
       "qq": 82830700,
-      "job": "班长",
+      "job": "学生",
       "state": "启用"
     },{
-      "username": "张三",
+      "username": "武哲弘",
       "college": "计算机学院",
-      "major": "软件工程",
+      "major": "计算机科学与技术",
       "class": "2班",
       "grade": 2017,
       "tel": 18832322223,
       "qq": 82830700,
-      "job": "班长",
+      "job": "学生",
       "state": "启用"
     }
   ]
